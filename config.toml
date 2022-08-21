@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://pslab-unibo.github.io"
-title = "Educenter | hugo education template"
+title = "Aggregate Computing | programming the Aggregate"
 theme = "educenter-hugo"
 themesDir = "themes"
 # post pagination
@@ -44,6 +44,7 @@ link = "plugins/google-map/gmap.js"
 
 #################### default parameters ################################
 [params]
+custom_css = ["assets/custom-css.css"]
 logo = "images/logo.png"
 # Meta data
 description = "This is meta description"
@@ -58,11 +59,6 @@ contact_form_action = "#" # contact form works with https://formspree.io
 google_analitycs_id = "" # your id
 # top header
 top_header = true
-
-# Preloader
-[params.preloader]
-enable = true
-preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 
 # Subscription
 [params.subscription]
