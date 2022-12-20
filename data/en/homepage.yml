@@ -5,24 +5,35 @@ slider:
   slider_item:
     # slider item loop
     - title : "Aggregate Computing"
-      content : "A top-down local-to-global self-organizign approach to program large-scale collective of computational device"
+      content : "A top-down local-to-global self-organising approach to program large-scale collective of computational device"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
         label : "Learn more!"
-        link : "contact"
+        link : "research"
 
     # slider item loop
-    - title : "Distributed Resilient Algorithms"
-      content : ""
+    - title : "Research"
+      content : "Our research group dealing with several aspects raging from engineering collective adaptive system, simulation, multi-agent machine learning and DevOps"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
         label : "Learn More!"
+        link : "contact"
+
+    # slider item loop
+    - title : "Open source projects"
+      content: "To support our research, we develop and mantain several frameworks/languages that implement current state-of-the-art solutions"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Learn more!"
         link : "contact"
 
     # slider item loop
@@ -38,11 +49,11 @@ slider:
 
 ############################### Banner feature ###############################
 banner_feature:
-  enable : true
+  enable : false
   image : "images/banner/banner-feature.png"
   feature_item:
     # feature item loop
-    - name : "Scholorship News"
+    - name : "Aggregate Computing"
       icon : "ti-book" # icon pack : https://themify.me/themify-icons
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
 
@@ -66,7 +77,7 @@ banner_feature:
 about:
   enable : true
   title : "About Aggregate Computing"
-  image : "images/about/aggregate."
+  image : "images/about/aggregate.png"
   content : "Aggregate programming provides an alternate approach to the standard device-centered development methodology, aiming to dramatically simplify the design, creation, and maintenance of complex and large scale software systems, specifically in the context of IoT, cyber-physical systems, pervasive computing, robotic swarms, and large-scale situated systems in general. Under this approach, the reference computing machine is no longer the single device, but is instead the aggregate collection of devices that cooperatively carry out a computational process: the details of behaviour, position and number of devices are largely abstracted away, to be replaced with a space-filling computational environment. Hence, with aggregate programming the availability of large, heterogeneous sets of devices becomes less of a concern and more an opportunity to increase the quality (e.g., soundness, stability, efficacy). In fact, standard software engineering (and software quality) best practices can then be applied at the aggregate level, there including: modularity/compositionality of specification/libraries, tractability of property analysis, and so on."
   button:
     enable : true
@@ -77,12 +88,12 @@ about:
 ############################# Course ################################
 course:
   enable : true
-  title : "Our Course"
+  title : "Our Interest"
   # course item comes from "content/**/course" folder.
 
 ########################## Call to action ############################
 cta:
-  enable : true
+  enable : false
   subtitle : "Click to Join the Advance Workshop"
   title : "Training In Advannce Networking"
   button:
@@ -93,7 +104,7 @@ cta:
 
 ######################## Success story #############################
 success_story:
-  enable : true
+  enable : false
   bg_image : "images/backgrounds/success-story.jpg"
   title : "Success Stories"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
