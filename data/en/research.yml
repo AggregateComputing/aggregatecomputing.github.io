@@ -1,0 +1,20 @@
+############################# About ###################################
+research:
+  enable : true
+  title : Research
+  about_item :
+  - icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
+    title : Models
+    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    link: "#"
+    
+  - icon : ti-eye # themify icon pack : https://themify.me/themify-icons
+    title : Simulations
+    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    link: "#"
+
+  - icon : ti-loop # themify icon pack : https://themify.me/themify-icons
+    title : Many-Agent Learning
+    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    link: "#"
+    

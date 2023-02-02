@@ -1,11 +1,15 @@
 ############################# call to action ##############################
 cta:
   enable : true
-  bg_image : "images/backgrounds/bg-white-wall.jpg"
-  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
-  title : "Great Design & Incredible Features"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+  bg_image : "images/backgrounds/background.gif"
+  bg_image_webp : "images/backgrounds/background.gif"
+  title : "Welcome to Aggregate Computing Group"
+  content : "Aggregate programming provides an alternate approach to the standard device-centered development methodology, 
+  aiming to dramatically simplify the design, creation, and maintenance of complex and large scale software systems, 
+  specifically in the context of IoT, cyber-physical systems, pervasive computing, robotic swarms, and large-scale 
+  situated systems in general. Under this approach, the reference computing machine is no longer the single device, 
+  but is instead the aggregate collection of devices that cooperatively carry out a computational process."
   button:
     enable : true
-    label : "Start a project with us"
-    link : "#contact"
+    label : "Discover our reasearch"
+    link : "#research"
