@@ -1,7 +1,7 @@
 ######################## default configuration ####################
-baseURL = "https://pslab-unibo.github.io"
-title = "PS Lab "
-theme = "pslab-hugo"
+baseURL = "https://aggregatecomputing.github.io"
+title = "Aggregate Computing "
+theme = "aggregate-computing-theme"
 # post pagination
 paginate = "6"
 # post excerpt

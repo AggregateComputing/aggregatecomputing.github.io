@@ -7,3 +7,6 @@
 [submodule "themes/pslab-hugo"]
 	path = themes/pslab-hugo
 	url = https://github.com/pslab-unibo/pslab-hugo.git
+[submodule "themes/aggregate-computing-theme"]
+	path = themes/aggregate-computing-theme
+	url = https://github.com/AggregateComputing/aggregate-computing-theme

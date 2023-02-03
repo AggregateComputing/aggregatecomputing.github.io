@@ -1,9 +1,10 @@
-############################# call to action ##############################
-cta:
-  enable : false
+############################### Banner ################################
+banner:
+  enable : true
   bg_image : "images/backgrounds/background.gif"
   bg_image_webp : "images/backgrounds/background.gif"
-  title : "Welcome to Aggregate Computing Group"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Aggregate Computing: Research Group"
   content : "Aggregate programming provides an alternate approach to the standard device-centered development methodology, 
   aiming to dramatically simplify the design, creation, and maintenance of complex and large scale software systems, 
   specifically in the context of IoT, cyber-physical systems, pervasive computing, robotic swarms, and large-scale 
@@ -11,5 +12,5 @@ cta:
   but is instead the aggregate collection of devices that cooperatively carry out a computational process."
   button:
     enable : true
-    label : "Discover our reasearch"
+    label : "Explore Us"
     link : "#research"
