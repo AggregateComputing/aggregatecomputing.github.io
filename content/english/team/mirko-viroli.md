@@ -7,7 +7,7 @@ designation : Full professor
 short_description : One of the main architects of the Aggregate Computing paradigm, his main focus is around programming models and languages
 social :
   - icon: ti-info
-    link: "https://www.unibo.it/sitoweb/gianluca.aguzzi"
+    link: "https://www.unibo.it/sitoweb/mirko.viroli"
   - icon : ti-github # themify icon pack : https://themify.me/themify-icons
     link : "https://github.com/mviroli"
   - icon : ti-email # themify icon pack : https://themify.me/themify-icons
