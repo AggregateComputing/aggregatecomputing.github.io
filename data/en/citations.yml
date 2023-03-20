@@ -3,6 +3,9 @@ citations:
   enable : true
   title : "Key publications"
   publications:
-    - "10.1109/MC.2015.261"
-    - "10.1016/j.engappai.2020.104081"
-    - "10.1109/MC.2015.261"
+    - doi: "10.1109/MC.2015.261"
+      short: "Todo"
+    - doi: "10.1016/j.engappai.2020.104081"
+      short: "Todo"
+    - doi: "10.1109/MC.2015.261"
+      short: "Todo"

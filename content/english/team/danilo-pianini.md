@@ -5,7 +5,9 @@ weight: 3
 image : images/team/danilo.jpg
 designation : Junior assistant professor
 short_description :  He is focused on simulation of pervasive environments and the use of DevOps techniques. He is a contributor and architect of the Alchemist simulator.
-social :
+social:
+  - icon: ti-info
+    link: "https://www.unibo.it/sitoweb/danilo.pianini"
   - icon : ti-github # themify icon pack : https://themify.me/themify-icons
     link : "https://github.com/DanySK"
   - icon : ti-email # themify icon pack : https://themify.me/themify-icons
