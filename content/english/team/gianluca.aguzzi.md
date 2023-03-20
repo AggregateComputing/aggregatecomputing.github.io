@@ -4,7 +4,7 @@ image_webp : images/team/gianluca.jpg
 weight: 5
 image : images/team/gianluca.jpg
 designation : PhD Student
-short_description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+short_description:  His main focus is on multi-agent learning in large-scale pervasive systems applied to swarm-like systems.
 social :
   - icon : ti-github # themify icon pack : https://themify.me/themify-icons
     link : "#"

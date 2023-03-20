@@ -4,7 +4,7 @@ image_webp : images/team/roberto.png
 image : images/team/roberto.png
 designation : Junior assistant professor
 weight: 4
-short_description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+short_description :  He is an expert in collective intelligence in large-scale multi-agent systems. Together with Viroli, he is the main contributor to ScaFi and he is the main architect of aggregate process.
 social :
   - icon : ti-github # themify icon pack : https://themify.me/themify-icons
     link : "#"

@@ -4,7 +4,7 @@ image_webp : images/team/mirko.png
 image : images/team/mirko.png
 weight: 2
 designation : Full professor
-short_description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+short_description : One of the main architects of the Aggregate Computing paradigm, his main focus is around programming models and languages
 social :
   - icon : ti-github # themify icon pack : https://themify.me/themify-icons
     link : "#"
