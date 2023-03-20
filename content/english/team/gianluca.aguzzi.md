@@ -7,13 +7,9 @@ designation : PhD Student
 short_description:  His main focus is on multi-agent learning in large-scale pervasive systems applied to swarm-like systems.
 social :
   - icon : ti-github # themify icon pack : https://themify.me/themify-icons
-    link : "#"
-  - icon : ti-cloud # themify icon pack : https://themify.me/themify-icons
-    link : "#"
-  - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-    link : "#"
+    link : "https://github.com/cric96"
   - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-    link : "#"
+    link : "mailto:gianluca.aguzzi@unibo.it"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.

@@ -17,5 +17,10 @@ projects:
       categories : ["Framework"]
       content : ScaFi (Scala Fields) is a Scala-based library and framework for Aggregate Programming.
       link : "https://scafi.github.io/"
-   
+    - name : Protelis
+      image : images/projects/protelis.png
+      image_webp : images/projects/protelis.png
+      categories : ["Language"]
+      content : Protelis is an external DSL hosted in Java for Aggregate Computing.
+      link : "http://protelis.github.io/"
    
