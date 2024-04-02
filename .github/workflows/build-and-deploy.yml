@@ -33,7 +33,7 @@ jobs:
           echo "Computed version: \"${USES#*@v}\""
           echo "::set-output name=version::${USES#*@v}"
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2.6.0
+        uses: peaceiris/actions-hugo@v3.0.0
         with:
           hugo-version: "${{ steps.hugo.outputs.version }}"
           extended: true
